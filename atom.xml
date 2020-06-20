@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-20T13:36:25.233Z</updated>
+  <updated>2020-06-20T13:46:10.718Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/06/20/newtodo/"/>
     <id>http://yoursite.com/2020/06/20/newtodo/</id>
     <published>2020-06-20T13:21:10.000Z</published>
-    <updated>2020-06-20T13:36:25.233Z</updated>
+    <updated>2020-06-20T13:46:10.718Z</updated>
     
-    <content type="html"><![CDATA[<p>目前的優先事項：</p><ul><li><input disabled="" type="checkbox"> <p>固定發文頻率</p></li><li><input disabled="" type="checkbox"> <p>優化 SEO</p><p>我的這個部落格在 Google 大概是無名人口。消失在搜索結果中。</p><p>Matters 好一點，但我還是喜歡自己的這一方小天地。</p></li><li><input disabled="" type="checkbox"> <p>發行電子報</p><p>大概的發想分成外刊精讀、每周播客（以及讀書？）心得、一周總結。想說的有點多，但會先用兩周的實驗來試探，看自己能不能達到這樣的產出。儘管訂閱者目前可能只有自己吧XD，我會盡量堅持，也是督促自己努力學習、練習輸出，培養責任心。</p><p>先說，每次斷更就要發反省文，給自己一周時間整理，再繼續。</p></li></ul><p>這個長假已經放了快一個月，還有好多事情還沒規劃好。</p><p>利用這個暑假好好學習成長，寫封給開學自己的一封信。</p><p>接下來請多多指教。</p>]]></content>
+    <content type="html"><![CDATA[<p>目前的優先事項：</p><ul><li><p>改變字體、修一些 bug</p></li><li><p>優化 SEO</p><p>我的這個部落格在 Google 大概是無名人口。消失在搜索結果中。</p><p>Matters 好一點，但我還是喜歡自己的這一方小天地。</p></li><li><p>發行電子報</p><p>大概的發想分成外刊精讀、每周播客（以及讀書？）心得、一周總結。想說的有點多，但會先用兩周的實驗來試探，看自己能不能達到這樣的產出。儘管訂閱者目前可能只有自己吧XD，我會盡量堅持，也是督促自己努力學習、練習輸出，培養責任心。</p><p>先說，每次斷更就要發反省文，給自己一周時間整理，再繼續。</p></li></ul><p>這個長假已經放了快一個月，還有好多事情還沒規劃好。</p><p>利用這個暑假好好學習成長，寫封給開學自己的一封信。</p><p>接下來請多多指教。</p>]]></content>
     
     <summary type="html">
     
@@ -31,16 +31,15 @@
       
         &lt;p&gt;目前的優先事項：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; &lt;p&gt;固定發文頻率&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;改變字體、修一些 bug&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; &lt;p&gt;優化 SEO&lt;/p&gt;
-&lt;p&gt;我的
+&lt;li&gt;&lt;p&gt;優化 SEO&lt;/p&gt;
+&lt;p&gt;我的這個部落格在 Google 大概是無名人口。消失在搜索結果中。&lt;/p&gt;
+&lt;p&gt;Matters 好一點，但我還是喜歡自己的這一方小天地
       
     
     </summary>
     
-    
-      <category term="\#" scheme="http://yoursite.com/categories//"/>
     
     
       <category term="隨筆" scheme="http://yoursite.com/tags/%E9%9A%A8%E7%AD%86/"/>
