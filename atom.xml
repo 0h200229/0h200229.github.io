@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-12T14:54:30.482Z</updated>
+  <updated>2020-07-12T14:57:27.521Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/07/12/%E4%B8%80%E5%B0%81%E7%9F%AD%E4%BF%A1/"/>
     <id>http://yoursite.com/2020/07/12/%E4%B8%80%E5%B0%81%E7%9F%AD%E4%BF%A1/</id>
     <published>2020-07-12T14:45:06.000Z</published>
-    <updated>2020-07-12T14:54:30.482Z</updated>
+    <updated>2020-07-12T14:57:27.521Z</updated>
     
-    <content type="html"><![CDATA[<p>暑假已經過了一半。還有好多事情沒上軌道：學習、投資、寫作、部落格、個人成長、作息、魔方，也因此前一陣子心情十分焦躁，埋怨自己一事無成，空想著改變、空口說努力，卻根本沒有多少實質的行動，害怕自己到頭來又沒能成長，還是那個糟糕的人。</p><p>今天看了一篇文章，才發現自己或許可以再更喜歡自己一點。這個暑假並不一定要有多少實際的成果，最重要是建立自己的系統，找到前進的感覺。失敗不一定是我不好，修正也不是什麼壞事，多跌倒多嘗試就是這個銜接暑假最大的特權。</p><p>轉一下這篇文章：<a href="https://mp.weixin.qq.com/s/nY3dddmdkb7tsLEMAjRuJQ" target="_blank" rel="noopener"><strong>【分享】充实暑假的n种方法</strong></a></p><p>我很喜歡前頭提到的：</p><blockquote><p>在我的定義裡，暑假得計畫不同於日常計畫，它是能夠「不完成的」。因為我知道，如果一開始不計畫，那我的暑假一定會在無所事事中被浪費掉。</p><p>所以，大家不用為了沒有完成暑假得計畫而產生負面情緒。多看看自己完成了什麼，快快樂樂地度過一個充實的夏天吧！</p></blockquote><p>多學一點是一點，同時也不要忘記開開心心地享受剩下的假期！</p>]]></content>
+    <content type="html"><![CDATA[<p>暑假已經過了一半。還有好多事情沒上軌道：學習、投資、寫作、部落格、個人成長、作息、魔方，也因此前一陣子心情十分焦躁，埋怨自己一事無成，空想著改變、空口說努力，卻根本沒有多少實質的行動，害怕自己到頭來又沒能成長，還是那個糟糕的人。</p><p>今天看了一篇文章，才發現自己或許可以再更喜歡自己一點。這個暑假並不一定要有多少實際的成果，最重要是建立自己的系統，找到前進的感覺。失敗不一定是我不好，修正也不是什麼壞事，多跌倒多嘗試就是這個銜接暑假最大的特權。</p><p>轉一下這篇文章：<a href="https://mp.weixin.qq.com/s/nY3dddmdkb7tsLEMAjRuJQ" target="_blank" rel="noopener"><strong>【分享】充实暑假的n种方法</strong></a></p><p>我很喜歡前頭提到的：</p><blockquote><p>在我的定義裡，暑假得計畫不同於日常計畫，它是能夠「不完成的」。因為我知道，如果一開始不計畫，那我的暑假一定會在無所事事中被浪費掉。</p><p>所以，大家不用為了沒有完成暑假的計畫而產生負面情緒。多看看自己完成了什麼，快快樂樂地度過一個充實的夏天吧！</p></blockquote><p>多學一點是一點，同時也不要忘記開開心心地享受剩下的假期！</p>]]></content>
     
     <summary type="html">
     
@@ -94,11 +94,11 @@
       <category term="看" scheme="http://yoursite.com/categories/%E7%9C%8B/"/>
     
     
+      <category term="高中" scheme="http://yoursite.com/tags/%E9%AB%98%E4%B8%AD/"/>
+    
       <category term="天文" scheme="http://yoursite.com/tags/%E5%A4%A9%E6%96%87/"/>
     
       <category term="旅遊" scheme="http://yoursite.com/tags/%E6%97%85%E9%81%8A/"/>
-    
-      <category term="高中" scheme="http://yoursite.com/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
@@ -159,9 +159,9 @@
     
     
     
-      <category term="高中" scheme="http://yoursite.com/tags/%E9%AB%98%E4%B8%AD/"/>
-    
       <category term="心得" scheme="http://yoursite.com/tags/%E5%BF%83%E5%BE%97/"/>
+    
+      <category term="高中" scheme="http://yoursite.com/tags/%E9%AB%98%E4%B8%AD/"/>
     
       <category term="自我成長" scheme="http://yoursite.com/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7/"/>
     
